@@ -1,6 +1,6 @@
 # Photo Shop Network Model with Cisco Packet Tracer
 
-## TR
+## TR :pushpin:
 
 >[!NOTE]
 >Bu Ağ Modeli Cisco Packet Tracer ile yapılmıştır. 
@@ -34,7 +34,7 @@ Ya da bu ekran görüntüsüne bakabilirsiniz. :blush:
 
 ![VirusTotalScreenShot](https://github.com/anlyetim/Photo-shop-network-model/blob/main/VirusTotalFinalResult.png)
 
-## ENG
+## ENG :pushpin:
 
 >[!NOTE]
 >This Network Model was built with Cisco Packet Tracer. 
